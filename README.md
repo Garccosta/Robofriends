@@ -1,4 +1,4 @@
-### Robofriends App
+# Robofriends App
 
 A simple app created using the "Create React App" Facebook npm module. 
 
