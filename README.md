@@ -3,7 +3,7 @@
 A simple app that connects to an API which randomly generates robots pictures based on its name(or basically anything you type). 
 The names and the cards infos are in the robots.js file. 
 
-## To run it:
+## To run it locally:
 
 ```
 1 - Clone it to a directory you want;
